@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 100,
+      "duration": "1 hour",
+      "description": "Internet access for 1 hour."
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 200,
+      "duration": "3 hours",
+      "description": "Internet access for 3 hours."
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 300,
+      "duration": "Entire Flight",
+      "description": "Internet access for the entire flight."
+    }
+  ]
+  
